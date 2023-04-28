@@ -58,7 +58,7 @@ ul {
   margin: 1em;
 }
 
-.countdown h3 {
+.countdown h2 {
   color: var(--grayish-blue);
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -134,7 +134,7 @@ ul {
     width: 70px;
     margin-bottom: 10px;
   }
-  .countdown h3 {
+  .countdown h2 {
     font-size: 0.7rem;
     letter-spacing: 1px;
     font-weight: normal;
